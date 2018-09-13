@@ -23,5 +23,5 @@ In Southern Utah you can find many slot canyons. Among them is this short canyon
 
 * Drive to Escalante
 * Go South on Hole in the Rock Road for about 25 Miles
-* You will need to park and walk to the slot canyon (10-15 minutes)
+* You will need to park and walk to the slot canyon (10-20 minutes)
 * Here It Is on Google Maps: https://www.google.com/maps/place/Peek-a-boo+slot+Canyon/@37.4408908,-111.2162303,13.02z/data=!4m5!3m4!1s0x8735d11ed2823d2b:0xaccf6b7d1168e17e!8m2!3d37.4818251!4d-111.2166812
