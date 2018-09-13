@@ -14,21 +14,13 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
   -->
-![helix-logo](./helix_logo.png)
+# Hiking in Southern Utah
 
-# Helix - test
+## Slot Canyons
+In Southern Utah you can find many slot canyons. Among them is this short canyon called Peek-a-Boo. It is beautiful, fun, and safe if you use common sense. 
 
-It works! test is up and running.
+## Go Visit - Here are the Directions
 
-## What's next?
-
-1. Try editing `index.md` and see what happens.
-2. Try editing `src/html.htl` to change the HTML output
-3. Try editing `src/static/style.css` to change the way this page looks
-
-## And then?
-
-4. Commit your changes: `git commit -a`
-5. Publish your project to GitHub: `git add git remote add origin https://github.com/user/repo.git && git push`
-6. Deploy the project: `hlx deploy`
-7. Make it visible to the world: `hlx strains`
+* Drive to Escalante
+* Go South on Hole in the Rock Road for about 25 Miles
+* Here It Is on Google Maps: https://www.google.com/maps/place/Peek-a-boo+slot+Canyon/@37.4408908,-111.2162303,13.02z/data=!4m5!3m4!1s0x8735d11ed2823d2b:0xaccf6b7d1168e17e!8m2!3d37.4818251!4d-111.2166812
