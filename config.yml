@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      # specify the version you desire here
+      # specify the version of the file you desire here
       - image: circleci/node:8-stretch
     steps:
         - checkout
